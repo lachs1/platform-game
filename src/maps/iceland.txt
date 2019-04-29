@@ -1,0 +1,14 @@
+#critical
+
+name:Iceland
+time:60
+
+#map
+N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,F,N
+N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,R,R,R,R,R,R,R,R,N
+N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,C,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,B,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,R,N,N,N,N,N,N,N,N,N,N
+N,N,N,N,N,N,N,N,N,N,I,I,I,I,S,R,S,R,N,C,N,N,N,N,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,N,N,N,N,N,N,E,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,C,N,R,N,N,N,N,N,N,N,N,N,N,N,N
+N,N,N,N,N,N,N,N,N,I,N,N,N,N,I,I,I,I,N,R,N,C,N,N,E,N,N,N,N,N,N,N,N,N,N,E,N,N,N,N,N,N,N,N,N,N,B,B,B,N,N,C,N,C,N,C,N,N,N,C,N,N,N,E,N,N,E,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+N,P,N,N,N,C,N,N,I,N,N,N,N,N,I,I,I,I,N,N,N,R,N,N,N,N,N,I,I,I,N,N,N,N,N,N,N,R,N,R,N,N,E,N,N,N,N,N,C,N,N,B,N,B,N,B,N,C,N,B,N,I,I,I,I,I,I,I,N,I,I,I,I,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+N,N,N,N,I,I,I,N,N,N,N,N,N,N,I,I,I,I,N,N,N,N,R,N,C,N,N,N,N,N,N,E,N,N,C,C,N,N,S,N,I,N,N,C,N,B,B,B,B,N,N,N,N,N,N,N,N,B,N,N,N,I,C,C,C,N,N,N,N,N,C,C,I,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+R,R,R,N,N,N,N,N,N,N,N,N,N,N,I,I,I,I,S,S,S,S,R,I,I,I,I,N,N,N,N,R,N,R,R,R,S,S,R,N,I,I,I,I,N,N,N,N,N,I,I,S,S,S,S,S,S,S,S,S,S,I,I,I,I,I,I,I,I,I,I,I,I,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S
